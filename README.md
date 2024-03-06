@@ -13,7 +13,7 @@
 
 
 
-For SQL quries questions
+# For SQL quries questions
 Title: Diabetes 
 
 The Diabetes Management System is a SQL project designed to facilitate the analysis and management of diabetes-related data. The project revolves around a dataset containing various health parameters of individuals, including pregnancies, glucose levels, blood pressure, skin thickness, insulin levels, BMI, diabetes pedigree function, age, and diabetes outcome.
