@@ -7,6 +7,6 @@
 -raw data values have to be within 0 and 1, so normailization's done
 -I split train and test data from each other
 -I trained data to distinguish between healthy and diabetic people
--KNN Model 've been created
+-KNN Model has been created
 -I tested the data for k range and set values according to  a 'for loop' which I have created.
--As last scaled the data with Min-Max, and made predictions with the KNN model. As a result, the risk of diabetes was estimated.
+-As last, scaled the data with Min-Max, and made predictions with the KNN model. As a result, the risk of diabetes was estimated.
